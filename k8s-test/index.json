@@ -19,7 +19,9 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "code": "01-env.sh",
+      "courseData": "02-configuration.sh"
     },
     "finish": {
       "text": "finish.md"
