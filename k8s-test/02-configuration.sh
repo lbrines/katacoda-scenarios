@@ -2,4 +2,5 @@
 
 launch.sh
 
-touch leopoldo.txt
+mkdir file && cd file
+git clone https://github.com/katacoda/scenario-examples.git
