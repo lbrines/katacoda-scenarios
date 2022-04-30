@@ -1,4 +1,4 @@
 ## Iniciando esenario
-Espera esta que este el prompt
+Esperar hasta que aparezca el siguiente prompt:
 
 `controlplane $`
