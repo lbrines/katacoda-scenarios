@@ -14,5 +14,7 @@ Revisar logs del pods:
 `kubectl logs myapp-pod`{{execute}}.
 
 Eliminar pod:
-`kubectl delete -f 02-pod.yml`{{execute}}.
+`kubectl delete -f 02-pod.yml&`{{execute}}.
+
+`kubectl get pods`{{execute}}.
 

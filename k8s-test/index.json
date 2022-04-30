@@ -24,7 +24,15 @@
       {
         "title": "Paso 5",
         "text": "step5.md"
-      }              
+      },
+      {
+        "title": "Paso 6",
+        "text": "step6.md"
+      },
+      {
+        "title": "Paso 7",
+        "text": "step7.md"
+      }               
     ],
     "intro": {
       "text": "intro.md",
