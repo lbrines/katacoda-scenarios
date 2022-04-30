@@ -2,6 +2,7 @@
 
 
 `cd manifest/lab-k8s`{{execute}}.
+
 `ls`{{execute}}.
 
 Verificar si hay pods
