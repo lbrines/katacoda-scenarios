@@ -1,6 +1,6 @@
 {
   "title": "K8s Pruebas",
-  "description": "Esto es una prueba basica k8s v0.6",
+  "description": "Esto es una prueba basica k8s v0.7",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
@@ -32,6 +32,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "kubernetes-cluster-running:1.22"
+    "imageid": "minikube"
   }
 }
