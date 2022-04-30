@@ -32,7 +32,27 @@
       {
         "title": "Paso 7",
         "text": "step7.md"
-      }               
+      },
+      {
+        "title": "Paso 8",
+        "text": "step8.md"
+      },
+      {
+        "title": "Paso 9",
+        "text": "step9.md"
+      },
+      {
+        "title": "Paso 10",
+        "text": "step10.md"
+      },
+      {
+        "title": "Paso 11",
+        "text": "step11.md"
+      },
+      {
+        "title": "Paso 12",
+        "text": "step12.md"
+      }                
     ],
     "intro": {
       "text": "intro.md",
