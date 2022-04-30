@@ -1,4 +1,4 @@
-## Revise los nodos del cluster
-`kubectl get cluster-info`{{execute}}.
+## Iniciando esenario
+Espera esta que este el prompt
 
-`kubectl get node`{{execute}}.
+`controlplane $`
