@@ -1,6 +1,6 @@
 {
   "title": "K8s Pruebas",
-  "description": "Esto es una prueba basica k8s v0.7",
+  "description": "Laboratorio básico kubernetes V0.1",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {

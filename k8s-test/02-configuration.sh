@@ -2,5 +2,5 @@
 
 launch.sh
 
-mkdir file && cd file
-git clone https://github.com/katacoda/scenario-examples.git
+mkdir manifest && cd manifest
+git clone https://github.com/lbrines/lab-k8s.git
