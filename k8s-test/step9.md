@@ -21,5 +21,4 @@ Revisar servicio web
 Eliminar pod:
 `kubectl delete -f 07-nodeport.yaml`{{execute}}.
 
-`kubectl get pods`{{execute}}.
 

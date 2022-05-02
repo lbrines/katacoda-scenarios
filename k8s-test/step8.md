@@ -25,5 +25,4 @@ Cambia la cantidad de replicas a 1:
 Eliminar pod:
 `kubectl delete -f 06-clusterip.yml`{{execute}}.
 
-`kubectl get pods`{{execute}}.
 

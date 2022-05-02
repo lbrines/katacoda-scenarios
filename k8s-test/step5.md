@@ -16,5 +16,3 @@ Revisar logs del pods:
 Eliminar pod:
 `kubectl delete -f 02-pod.yml&`{{execute}}.
 
-`kubectl get pods`{{execute}}.
-

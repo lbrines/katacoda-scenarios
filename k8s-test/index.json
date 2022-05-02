@@ -48,11 +48,7 @@
       {
         "title": "Paso 11",
         "text": "step11.md"
-      },
-      {
-        "title": "Paso 12",
-        "text": "step12.md"
-      }                
+      }               
     ],
     "intro": {
       "text": "intro.md",

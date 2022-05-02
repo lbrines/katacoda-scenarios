@@ -17,5 +17,3 @@ Despliega el segundo pod:
 Eliminar pod:
 `kubectl delete -f 03-deployment.yml&`{{execute}}.
 
-`kubectl get pods`{{execute}}.
-

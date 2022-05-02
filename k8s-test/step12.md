@@ -1,5 +1,0 @@
-# SERVICE
-## SECRET
-
-
-
