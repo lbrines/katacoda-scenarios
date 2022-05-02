@@ -19,7 +19,7 @@ Sustituye xxxxxxxx-xxxxx por los datos de tu pod
 `kubectl exec -it app-secret-xxxxxxxx-xxxxx -- env`{{execute}}.
 
 Eliminar pod y secret:
-`kubectl delete -f 09-configmap.yaml`{{execute}}.
+`kubectl delete -f 09-secret.yaml`{{execute}}.
 `kubectl delete secrets db-user-pass`{{execute}}.
 
 
