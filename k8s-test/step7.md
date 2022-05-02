@@ -11,5 +11,5 @@ Despliega el segundo pod:
 `kubectl describe pod nginx-deployment-xxxxxxxxx-xxxx`
 
 Eliminar pod:
-`kubectl delete -f 04-deployment.yml&`{{execute}}.
+`kubectl delete -f 04-deployment.yml`{{execute}}.
 
